@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
 
 
 We are Team-Reportica. In this team is Amantle Mashele and myself, Nombulelo Moepi. We are currently second year students pursuing Bachelor of Computing degrees, majoring in Business Intelligence at Belgium Campus ITversity.

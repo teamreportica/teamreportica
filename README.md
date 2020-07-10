@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-We are Team-Reportica. In this team is Amantle Mashele and myself, Nombulelo Moepi. We are currently second year students pursuing Bachelor of Computing degrees, majoring in Business Intelligence at Belgium Campus ITversity.
+We are Team-Reportica. In this team is Amantle Mashele and Nombulelo Moepi. We are currently second year students pursuing Bachelor of Computing degrees, majoring in Business Intelligence at Belgium Campus ITversity.
 
 Our idea tackles challenge 2. It is based on trying to incentivize consumers into saving water. The incentive will be in the form of issuing the consumers with a calculated discounted bus trip in correlation with the amount of water saved over a specified period.
 
